@@ -1,0 +1,174 @@
+.h-center{
+    background-image: url("https://img.freepik.com/free-photo/vertical-shot-foamy-waves-atlantic-ocean-near-nazare-municipality-portugal_181624-45128.jpg?t=st=1723024101~exp=1723027701~hmac=0edb34b4ef350a364037e73d36dd98364dd9a4466f51c9049ba8ab5b015bc356&w=360");
+    background-size: cover;
+    height:100vh;
+    width:100vw;
+ }
+ .main-heading {
+   color:red;
+   font-family: Roboto;
+   font-size: 20px;
+   font-style: italic;
+   font-weight: bold;
+   text-decoration: underline;
+ }
+ .paragraph{
+   color:blue;
+ }
+ .card1{
+  background-color: white;
+  text-align: center;
+  border-top-right-radius: 50px;
+  border-top-left-radius: 50px;
+  padding: 5px;
+ }
+ .button{
+  height:36px;
+  width:100px;
+  border-radius: 20px;
+  background-color: pink;
+  color: white;
+ }
+ .fav-background-img {
+  background-image: url("https://zeevector.com/wp-content/uploads/2021/03/Light-color-brochure-background_free-download.jpg");
+  background-size: cover;
+ }
+ .fav-text {
+  text-align: left;
+  font-style:'Roboto';
+  color:rgb(68, 68, 244);
+  font-size: 28px;
+  font-weight: bold;
+  padding: 20PX;
+ }
+ .card-background {
+  background-color: white;
+  border-radius: 10px;
+  padding: 2px;
+  margin: 15px;
+ }
+ .taj-mahal-heading{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 8px;
+ }
+ .taj-mahal-img{
+  width: 140px;
+  height: 140px;
+  padding:2px;
+  border-radius: 10px;
+  margin: 10px;
+ }
+ .more-deatils-button{
+  padding:5px;
+  margin:10px;
+  color:azure;
+ }
+ .paragraph-text{
+  font-size: 20px;
+  padding:8px;
+  text-align: left;
+ }
+ .golden-temple-img{
+  width: 90px;
+  height: 120px;
+  padding:2px;
+  border-radius: 10px;
+  margin: 10px;
+ }
+.golden-temple-heading{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 8px;
+}
+.mysore-heading{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 8px;
+}
+.mysore-img{
+  width: 90px;
+  height: 120px;
+  padding:2px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.fav-place-mysore-palace-text{
+  color:#0f0e46;
+  font-family: 'Robot';
+  font-size: 23px;
+  font-weight: bold;
+  padding:10px;
+}
+.p-text-mysore-palace{
+  font-size: 13px;
+  font-family: 'Roboto';
+  color:#6c6b70;
+  padding:10px;
+}
+.varanasi-heading{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 8px;
+}
+.varanasi-img{
+  width: 90px;
+  height: 120px;
+  padding:2px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.fav-place-bg-img{
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+}
+.p-text{
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: roboto;
+  color:white;
+  font-weight: bold;
+  padding:20px;
+}
+.card-container{
+  background-color: white;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  margin: 30px;
+}
+.fav-place-taj-mahal-text{
+  color:#0f0e46;
+  font-family: 'Robot';
+  font-size: 23px;
+  font-weight: bold;
+  padding:10px;
+}
+.p-text-taj-mahal{
+  font-size: 13px;
+  font-family: 'Roboto';
+  color:#6c6b70;
+  padding:10px;
+}
+.total{
+  margin: 20px;
+  border-radius: 20px;
+}
+.fav-place-golden-temple-text{
+  color:#0f0e46;
+  font-family: 'Robot';
+  font-size: 23px;
+  font-weight: bold;
+  padding:10px;
+}
+.p-text-golden-temple{
+  font-size: 13px;
+  font-family: 'Roboto';
+  color:#6c6b70;
+  padding:10px;
+}
+.back-button{
+  margin: 10px;
+}
